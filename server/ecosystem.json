@@ -1,7 +1,7 @@
 {
     "apps": [{
         "name": "grudge-species-scuffle",
-        "script": "dist/nest/main.js",
+        "script": "index.js",
         "node_args": "--harmony"
     }],
     "deploy": {
